@@ -32,7 +32,13 @@ Vedicheals is an open-source Flutter application designed to provide users with 
     flutter pub get
     ```
 
-4. Run the application:
+4. Launch commitlint:
+
+    ```bash
+    npm i
+    ```
+
+5. Run the application:
 
     ```bash
     flutter run
